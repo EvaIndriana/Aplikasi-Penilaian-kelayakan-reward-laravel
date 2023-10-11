@@ -8,9 +8,8 @@
 </p> -->
 
 ## Biodata Penulis
-
-Nama    : Eva Indriana Juansyah <br>
-Email   : evaindrianaj45@gmail.com
+<p>Nama : Eva Indriana Juansyah</p>
+<p>Email : <a>evaindrianaj45@gmail.com</a></p>
 
 ## Link Deploy
 
@@ -91,3 +90,20 @@ Penilaian Akhir Fuzzy Tsukamoto
 
 ## Aplikasi Screenshot
 
+Halaman Login User
+<img src="public/img-git/login.png" alt="Halaman Login">
+
+Halaman Detail User Penggguna
+<img src="public/img-git/detail profil pengguna.png" alt="Halaman Login">
+
+Halaman Dashboard
+<img src="public/img-git/dashboar.png" alt="Halaman Dashboard">
+
+Halaman Data Karyawan
+<img src="public/img-git/datakaryawan.png" alt="Halaman Data Karyawan">
+
+Halaman Penilaian Indikator
+<img src="public/img-git/penilaian indikator.png" alt="Halaman Data Karyawan">
+
+Halaman Data Penilaian Akhir Fuzzy Tsukamoto
+<img src="public/img-git/penilaian akhir.png" alt="Halaman Data Karyawan">
