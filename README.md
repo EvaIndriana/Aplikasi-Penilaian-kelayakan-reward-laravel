@@ -9,7 +9,7 @@
 
 ## Biodata Penulis
 
-Nama    : Eva Indriana Juansyah
+Nama    : Eva Indriana Juansyah <br>
 Email   : evaindrianaj45@gmail.com
 
 ## Link Deploy
@@ -49,25 +49,25 @@ Perangkat lunak berikut dibawah ini merupakan daftar perangkat lunak yang diguna
 7.	Database yang digunakan adalah MySQL..
 8.	Bootstrap digunakan sebagai framework HTML dan CSS untuk antarmuka pengguna pada halaman web.
 
-### Premium Partners
+### Fitur Role Atau Pembatasan Menu Setiap Users
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+1. Admin Aplikasi
+2. Admin Hrd
+3. Kepala Department
+4. Pimpinan
 
-## Contributing
+## Fitur Aplikasi
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+1. Login
+2. Logout
+3. Halaman Utama
+
+Daftar Pengguna
+<li>Tambah Data</li>
+<li>Ubah Data</li>
+<li>Hapus Data</li>
+<li>Detail Data</li>
+<li>PDF Data</li>
 
 ## Code of Conduct
 
