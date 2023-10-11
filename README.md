@@ -63,20 +63,31 @@ Perangkat lunak berikut dibawah ini merupakan daftar perangkat lunak yang diguna
 3. Halaman Utama
 
 Daftar Pengguna
-<li>Tambah Data</li>
-<li>Ubah Data</li>
-<li>Hapus Data</li>
-<li>Detail Data</li>
-<li>PDF Data</li>
+1. Tambah Data
+2. Ubah Data
+3. Hapus Data
+4. Detail Data
+5. PDF Data
 
-## Code of Conduct
+Daftar Data Karyawan
+1. Tambah Data
+2. Ubah Data
+3. Hapus Data
+4. Detail Data
+5. PDF Data
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Penilaian Indikator
+1. Tambah Data
+2. Ubah Data
+3. Hapus Data
+4. Detail Data
+5. PDF Data
 
-## Security Vulnerabilities
+Penilaian Akhir Fuzzy Tsukamoto
+1. Tambah Data
+3. Hapus Data
+4. Detail Data
+5. PDF Data
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## Aplikasi Screenshot
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
